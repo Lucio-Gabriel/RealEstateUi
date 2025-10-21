@@ -1,3 +1,9 @@
+<script setup>
+import Navbar from './components/Navbar.vue'; 
+</script>
+
 <template>
-  <h1 class="text-3xl bg-green-800">Hello VUE</h1>
+  <div >
+    <Navbar />
+  </div>
 </template>

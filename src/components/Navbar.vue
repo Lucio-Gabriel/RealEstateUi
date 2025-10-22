@@ -2,7 +2,7 @@
     <header class="max-w-7xl mx-auto m-5">
         <div class="flex justify-between items-center">
             <ul class="flex gap-8">
-                <li><a href="#" class="text-[#1F3777]">Home</a></li>
+                <li><a href="#" class="text-[#1F3777] font-semibold">Home</a></li>
                 <li><a href="#">About</a></li>
                 <li><a href="#">Service</a></li>
                 <li><a href="#">Property</a></li>

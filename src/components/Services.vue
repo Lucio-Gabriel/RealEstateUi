@@ -12,7 +12,7 @@
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-2 mt-10 justify-center">
-            <div class="bg-primary flex gap-5 py-10 px-5 max-w-md rounded-[30px] md:ml-32">
+            <div class="bg-primary flex gap-5 py-10 px-5  rounded-[16px] md:ml-5 mt-3">
                 <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" 
                         class="icon icon-tabler icons-tabler-outline icon-tabler-home-dollar text-white w-16 mt-3">
@@ -27,13 +27,13 @@
                 <div class="flex flex-col gap-3">
                     <h3 class="text-xl text-white font-semibold">Impostos acessíveis</h3>
 
-                    <p class="max-w-xs text-slate-400 text-base">
-                        Ajudamos você a encontrar um novo lar, oferecendo uma experiência imobiliária
+                    <p class="max-w-md text-slate-400 text-base">
+                        Ajudamos você a encontrar um lar, oferecendo uma experiência imobiliária
                     </p>
                 </div>
             </div>
 
-            <div class="bg-slate-300 flex gap-5 py-10 px-5 max-w-md rounded-[30px] md:ml-5">
+            <div class="bg-slate-300 flex gap-5 py-10 px-5  rounded-[16px] md:ml-5 mt-3">
                 <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" 
                         class="icon icon-tabler icons-tabler-outline icon-tabler-medal text-primary w-16 mt-3">
@@ -46,13 +46,32 @@
                 <div class="flex flex-col gap-3">
                     <h3 class="text-xl text-black font-semibold">Casas de qualidade garantida</h3>
 
-                    <p class="max-w-xs text-black text-base">
-                        Ajudamos você a encontrar um novo lar, oferecendo uma experiência imobiliária
+                    <p class="max-w-md text-black text-base">
+                        Ajudamos você a encontrar um lar, oferecendo uma experiência imobiliária
                     </p>
                 </div>
             </div>
 
-            <div class="bg-slate-300 flex gap-5 py-10 px-5 max-w-md rounded-[30px] md:ml-32 mt-3">
+            <div class="bg-slate-300 flex gap-5 py-10 px-5  rounded-[16px] md:ml-5 mt-3">
+                <div>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" 
+                        class="icon icon-tabler icons-tabler-outline icon-tabler-medal text-primary w-16 mt-3">
+                        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M12 4v3m-4 -3v6m8 -6v6" />
+                        <path d="M12 18.5l-3 1.5l.5 -3.5l-2 -2l3 -.5l1.5 -3l1.5 3l3 .5l-2 2l.5 3.5z" />
+                    </svg>
+                </div>
+
+                <div class="flex flex-col gap-3">
+                    <h3 class="text-xl text-black font-semibold">Casas de qualidade garantida</h3>
+
+                    <p class="max-w-md text-black text-base">
+                        Ajudamos você a encontrar um lar, oferecendo uma experiência imobiliária
+                    </p>
+                </div>
+            </div>
+
+            <div class="bg-slate-300 flex gap-5 py-10 px-5  rounded-[16px] md:ml-5 mt-3">
                 <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" 
                         class="icon icon-tabler icons-tabler-outline icon-tabler-medal text-primary w-16 mt-3">
@@ -65,31 +84,21 @@
                 <div class="flex flex-col gap-3">
                     <h3 class="text-xl text-black font-semibold">Processo rápido e fácil</h3>
 
-                    <p class="max-w-xs text-black text-base">
-                        Ajudamos você a encontrar um novo lar, oferecendo uma experiência imobiliária
+                    <p class="max-w-md text-black text-base">
+                        Ajudamos você a encontrar um lar, oferecendo uma experiência imobiliária
                     </p>
                 </div>
             </div>
+        </div>
 
-            <div class="bg-slate-300 flex gap-5 py-10 px-5 max-w-md rounded-[30px] md:ml-5 mt-3">
-                <div>
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" 
-                        class="icon icon-tabler icons-tabler-outline icon-tabler-medal text-primary w-16 mt-3">
-                        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-                        <path d="M9 21v-6a2 2 0 0 1 2 -2h1.341" />
-                        <path d="M19.682 10.682l-7.682 -7.682l-9 9h2v7a2 2 0 0 0 2 2h5" />
-                        <path d="M22 16c0 4 -2.5 6 -3.5 6s-3.5 -2 -3.5 -6c1 0 2.5 -.5 3.5 -1.5c1 1 2.5 1.5 3.5 1.5z" />
-                    </svg>
-                </div>
+        <div class="flex items-end justify-end mt-10">
+            <a href="#" class="flex items-center gap-3 px-10 py-4 bg-primary hover:bg-blue-800 duration-300 text-white font-semibold rounded-lg">
+                Explorar
 
-                <div class="flex flex-col gap-3">
-                    <h3 class="text-xl text-black font-semibold">Seguro de propriedade</h3>
-
-                    <p class="max-w-xs text-black text-base">
-                        Ajudamos você a encontrar um novo lar, oferecendo uma experiência imobiliária
-                    </p>
-                </div>
-            </div>
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 8.25 21 12m0 0-3.75 3.75M21 12H3" />
+                </svg>
+            </a>
         </div>
     </section>
 </template>

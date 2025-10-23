@@ -2,11 +2,11 @@
     <header class="max-w-7xl mx-auto m-5">
         <div class="flex justify-between items-center">
             <ul class="flex gap-8">
-                <li><a href="#" class="text-[#1F3777] font-semibold">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Service</a></li>
-                <li><a href="#">Property</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="#" class="text-primary font-semibold">Home</a></li>
+                <li><a href="#" class="hover:text-primary duration-300">Sobre</a></li>
+                <li><a href="#" class="hover:text-primary duration-300">Serviços</a></li>
+                <li><a href="#" class="hover:text-primary duration-300">Propriedades</a></li>
+                <li><a href="#" class="hover:text-primary duration-300">Contatos</a></li>
             </ul>
 
             <div class="flex items-center justify-center mr-12">

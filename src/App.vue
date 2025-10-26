@@ -4,6 +4,7 @@ import Main from './components/Main.vue';
 import BuildingSection from './components/BuildingSection.vue';
 import SectionTrust from './components/SectionTrust.vue';
 import Services from './components/Services.vue';
+import SectionProperty from './components/SectionProperty.vue';
 </script>
 
 <template>
@@ -13,5 +14,6 @@ import Services from './components/Services.vue';
     <BuildingSection/>
     <SectionTrust />
     <Services />
+    <SectionProperty />
   </div>
 </template>

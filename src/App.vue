@@ -5,6 +5,7 @@ import BuildingSection from './components/BuildingSection.vue';
 import SectionTrust from './components/SectionTrust.vue';
 import Services from './components/Services.vue';
 import SectionProperty from './components/SectionProperty.vue';
+import SectionAreas from './components/SectionAreas.vue';
 </script>
 
 <template>
@@ -15,5 +16,6 @@ import SectionProperty from './components/SectionProperty.vue';
     <SectionTrust />
     <Services />
     <SectionProperty />
+    <SectionAreas />
   </div>
 </template>
